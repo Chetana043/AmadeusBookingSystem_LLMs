@@ -58,10 +58,4 @@ Once the app is running, you can input travel-related queries in natural languag
 "Find me flights from New York to London on November 10th."
 "Show available hotels in Paris for two people from December 5th to December 10th."
 The application will interpret your query, fetch the appropriate data from the Amadeus API, and display the results in a clear, user-friendly format.
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-Feel free to modify this README to suit your specific needs!
